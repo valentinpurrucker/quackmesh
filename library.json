@@ -1,0 +1,27 @@
+{
+  "name": "QuackMesh",
+  "version": "0.0.1",
+  "description": "An easy and fast mesh library for ESP32 & ESP8266 devices, based off of ESP-NOW",
+  "keywords": [
+    "espnow",
+    "iot",
+    "mesh"
+  ],
+  "repository":
+  {
+    "type": "git",
+    "url": "/"
+  },
+  "authors":
+  [
+    {
+      "name": "Valentin Purrucker",
+      "maintainer": true
+    }
+  ],
+  "dependencies": {
+  },
+  "license": "MIT",
+  "frameworks": "arduino",
+  "platforms": ["espressif8266", "espressif32"]
+}
