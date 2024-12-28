@@ -5,7 +5,7 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/55744124-ad5a-4b76-b958-76fe8f590502" height="150"/>
 </p>
-<p align="center">git
+<p align="center">
   <h1 align="center">QuackMesh</h1>
   <p>A simple and efficient mesh communication protocol built on top of the ESP-NOW protocol for ESP32 and ESP8266 microcontrollers. 
     It provides a simple, Arduino-style interface for creating self-organizing, decentralized networks, ideal for IoT projects and remote control applications.</p>
