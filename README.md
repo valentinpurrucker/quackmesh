@@ -3,7 +3,7 @@
 [![Platform: ESP32/ESP8266](https://img.shields.io/badge/Platform-ESP32%2FESP8266-blue)](https://www.espressif.com/)
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/55744124-ad5a-4b76-b958-76fe8f590502" height="150"/>
+  <img src="https://github.com/user-attachments/assets/1d6473e5-342c-48f1-8f6d-80f9e5bcbe7a" height="150"/>
 </p>
 <p align="center">
   <h1 align="center">QuackMesh</h1>
@@ -12,6 +12,7 @@
 </p>
 
 ## Key Features
+
 - **Mesh Networking:** A custom protocol based on ESP-NOW enables communication between multiple distributed devices, extending range and providing redundancy and fallback routes.
 - **Router and End-Device Support:** Designates devices as either routers (forwarding messages, routing tables) or end devices (only sending and receiving), optimizing network performance and resource usage.
 - **Uni- and Broadcast Messaging:** Supports sending messages to a specific device (unicast) or all devices in the network (broadcast).
